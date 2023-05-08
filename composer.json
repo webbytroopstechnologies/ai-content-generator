@@ -1,0 +1,28 @@
+{
+    "name": "webbytroopstechnologies/ai-content-generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WebbyTroops",
+            "email": "ramkishan@webbytroops.com"
+        }
+    ],
+    "require": {
+        "bagisto/laravel-core": "dev-master",
+        "bagisto/laravel-sales": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "WebbyTroops\\AiContentGenerator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "WebbyTroops\\AiContentGenerator\\Providers\\AiContentGeneratorServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "minimum-stability": "dev"
+}
