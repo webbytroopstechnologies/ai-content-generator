@@ -28,4 +28,4 @@ If you have any query/concern/issues you can contact us anytime at
 contact@webbytroops.com
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/webbytroopstechnologies/advanced-order-number/blob/main/LICENSE.md)
+The MIT License (MIT). Please see [License File](https://github.com/webbytroopstechnologies/ai-content-generator/blob/main/LICENSE.md)
