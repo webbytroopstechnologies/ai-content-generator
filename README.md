@@ -2,7 +2,7 @@
 
 ## Requirements
 - [PHP >= 8.1](http://php.net/)
-- Bagisto 1.4 
+- Bagisto 1.4|1.5 
 
 ## Documentations
 - [Github Docs](https://github.com/bagisto/bagisto)
