@@ -19,6 +19,21 @@ Register provider and facade on your `config/app.php` file.
 ]
 
 ```
+#### For Publish The Assets
+
+```bash
+php artisan vendor:publish
+```
+
+Run this command to publish the assets of this
+module by selecting AI Content Generator service provider!
+#### For Route & Config cache
+
+```bash
+php artisan optimize
+```
+
+Run this command to clear the route and config cache!
 ## Documentations
 - [Docs](https://store.webbytroops.com/downloadable/download/sample/sample_id/29/)
 
