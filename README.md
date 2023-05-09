@@ -4,10 +4,6 @@
 - [PHP >= 8.1](http://php.net/)
 - Bagisto 1.4|1.5 
 
-## Documentations
-- [Github Docs](https://github.com/bagisto/bagisto)
-- [Bagisto Documentation](https://devdocs.bagisto.com/1.x/packages/)
-
 ## Quick Installation
 
 ```bash
@@ -23,6 +19,9 @@ Register provider and facade on your `config/app.php` file.
 ]
 
 ```
+## Documentations
+- [Docs](https://store.webbytroops.com/downloadable/download/sample/sample_id/29/)
+
 ## Support and Discussion:
 If you have any query/concern/issues you can contact us anytime at
 contact@webbytroops.com
