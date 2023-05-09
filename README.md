@@ -19,6 +19,11 @@ Register provider and facade on your `config/app.php` file.
 ]
 
 ```
+#### Composer
+
+```bash
+composer dump-autoload
+```
 #### For Publish The Assets
 
 ```bash
